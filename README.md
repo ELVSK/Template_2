@@ -20,17 +20,18 @@ React-scrollable-list
 https://github.com/jwarning/react-scrollable-list
 
 Architectures :
-  > src/
-    - App.js
+ 
+    > src/
+      - App.js
     
-    > composents/
-      - macroSkillsPage.css
-      - macroSkillsPage.js
+      > composents/
+        - macroSkillsPage.css
+        - macroSkillsPage.js
       
-      - sideMenu.css
-      - sideMenu.js   
+        - sideMenu.css
+        - sideMenu.js   
       
-      - topBar.css
-      - topBar.js   
+        - topBar.css
+        - topBar.js   
       
-      - react-scrollable-list.js
+        - react-scrollable-list.js

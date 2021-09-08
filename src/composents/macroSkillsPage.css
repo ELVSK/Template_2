@@ -1,0 +1,175 @@
+
+
+.react-scrollable-list {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  height: 300px;
+  width: 280px;
+  overflow-y: scroll;
+  border: #ddd solid 1px;
+  margin-left: 10%;
+  margin-top: 10%;
+}
+
+.react-scrollable-list-item {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  height: 50px;
+  padding: 5px;
+  background-color: #white;
+  border-bottom: #ddd solid 1px;
+  pointer-events: none;
+
+
+  height: 56px;
+width: 281.99493408203125px;
+border-radius: 0px;
+
+text-align: center;
+
+background: #FFFFFF;
+
+
+
+}
+
+
+
+
+.btn-next
+{
+  position: absolute;
+  bottom: 0px;
+  right: 0px;
+  width: 96px;
+  height: 40px;
+  background-color: #cccccc;
+  color: white;
+}
+
+
+.btn-prev
+{
+  height: 40px;
+  width: 102px;
+  left: 251px;
+  top: 716px;
+  border-radius: 0px;
+
+position: absolute;
+background: #FFFFFF;
+
+}
+
+.surfaceDroppable
+{
+
+  height: 431px;
+  width: 704px;
+  left: 251px;
+  top: 265px;
+  border-radius: 0px;
+  margin-top: 7.5%;
+
+
+background: #cccccc;
+
+}
+
+
+.listeSkills-container
+{
+
+
+  margin-top: 0%;
+
+  height: 515px;
+  width: 344px;
+  left: 971px;
+  top: 177px;
+  border-radius: 0px;
+
+  position: absolute;
+left: 71.08%;
+right: 3.73%;
+top: 23.05%;
+bottom: 9.38%;
+
+box-shadow: 0px 0.2px 5px;
+background: white;
+
+
+}
+
+
+
+.listeSkills-titre
+{
+  margin-left: 10%;
+}
+
+.listeSearchBar
+{
+  height: 32px;
+  width: 296px;
+
+  border-radius: 0px;
+  margin-left: 5%;
+
+
+background: #F2F3F5;
+
+}
+
+.skillsAjoutés
+{
+  height: 56px;
+width: 281.99493408203125px;
+left: 255px;
+top: 188px;
+border-radius: 0px;
+
+position: absolute;
+left: 20%;
+right: 60.69%;
+top: 24.48%;
+bottom: 68.23%;
+
+background: #FFFFFF;
+
+}
+
+
+
+.classSaisieNomMacro
+{
+  height: 47px;
+width: 703px;
+left: -200.5px;
+top: -190.5px;
+border-radius: 0px;
+}
+
+.styleBouton
+{
+  height: 50px;
+width: 156px;
+left: -381px;
+top: -264px;
+border-radius: 0px;
+}
+
+
+.tailleTexteBoutons
+{
+  font-size: 12px;
+  text-align: left;
+}
+
+
+.classMacroSkills
+{
+  margin-left: 20%;
+}

@@ -35,3 +35,11 @@ Architectures :
         - topBar.js   
       
         - react-scrollable-list.js
+        
+Captures d'écrans :
+![1](https://user-images.githubusercontent.com/90154906/132489980-b63bc02c-586f-440c-b111-646ee252e776.png)
+
+![2](https://user-images.githubusercontent.com/90154906/132489992-876f41b6-1ea2-4a83-a4f0-37b0731979ed.png)
+
+![3](https://user-images.githubusercontent.com/90154906/132490003-d28f8bb4-433a-44ef-9302-9f303fb3387b.png)
+
